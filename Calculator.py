@@ -1,6 +1,6 @@
 # This function adds two numbers
-# NAME: M McMahon
-
+# NAME: M McMahon 
+ 
 def add(x, y):
     return x + y
 
@@ -47,7 +47,7 @@ while True:
             print("You enter code for #3 here")
             
         elif choice == '4':
-            print("You enter code for #4 here")
+            print(num1, "/", num2, "=", divide(num1, num2))
             
         # check if user wants another calculation
         # break the while loop if answer is no
