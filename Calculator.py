@@ -45,7 +45,7 @@ while True:
         elif choice == '3':
             # print("You enter code for #3 here") 
             print(num1, "x", num2, "=", multiply(num1, num2))
-        elif choice == '4':
+        elif choice == '4': 
             print("You enter code for #4 here")
             
         # check if user wants another calculation
